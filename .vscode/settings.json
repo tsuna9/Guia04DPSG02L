@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
+        "administraci",
+        "administración",
         "alumno",
         "alumno array",
         "array",
@@ -10,6 +12,7 @@
         "articulos servicio",
         "baja",
         "blanco",
+        "borrar",
         "core",
         "correo",
         "crudangularphp",
@@ -31,7 +34,9 @@
         "mensaje",
         "min",
         "modificacion",
+        "modificar",
         "modules",
+        "n",
         "node",
         "node modules popperjs core dist umd popper min js",
         "number",
@@ -52,6 +57,7 @@
         "selected alumno",
         "service",
         "servicio",
+        "sinarticulos",
         "telefono",
         "tipo",
         "todos",
